@@ -1,2 +1,2 @@
 # TrimmingTheFat
-Deep Learning based video tagging and searching
+Deep learning based video tagging and searching.
